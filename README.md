@@ -1,2 +1,4 @@
 # Games-Programming
-This is Yuhang Chen's game repository and it is confidential. Only used for DI32002: Games Programming module.
+DI32002 Games Programming coursework repository. 
+Developed with Unity. (2025/2026)
+Developer: Yuhang Chen
