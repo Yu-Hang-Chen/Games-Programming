@@ -2,7 +2,7 @@
 # Citations & Asset Documentation
 
 **Project:** Subject 17 — 3D Horror Puzzle Escape Game  
-**Developer:** Han Haoyü  
+**Developer:** Yuhang Chen 
 **Last Updated:** 2026-05-26
 
 ---
